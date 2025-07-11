@@ -1,5 +1,3 @@
-# mining-tenement-geojson
-GeoJSON dataset for WA mining tenement project
 # Western Australia Mining Tenement Dashboard
 
 This project visualises and analyses mining tenements across Western Australia using geospatial data and interactive visualisations.
@@ -32,10 +30,10 @@ Explore the live dashboard here:
    Source: [data.wa.gov.au](https://catalogue.data.wa.gov.au/dataset/regional-development-commissions-regions-dpird-020)
 
 ## 🧪 Files in this Repo
-
 - `MineTenementWA.ipynb`: Jupyter Notebook for cleaning, processing, and joining geospatial datasets.
 - `tenements_wa.csv`: Cleaned tenement data including centroid coordinates.
-- `wa_regions.geojson`: Regional boundary reference used to map tenements to regions.
+- `tenement_regions_clean.csv`: Mapping of tenements to WA regions using regional boundary geometry.
+- `tenement_holders.csv`: Extracted holder details, separated from the main tenement dataset for normalisation.
 - `README.md`: You're reading it!
 
 ## 📍 Insights
