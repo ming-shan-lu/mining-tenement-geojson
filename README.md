@@ -2,7 +2,7 @@
 
 This project visualises and analyses mining tenements across Western Australia using geospatial data and interactive visualisations.
 
-## 🗺️ Project Overview
+## Project Overview
 
 Western Australia holds a vast number of mining tenements, each representing different types of licenses and exploration statuses. This project aims to provide a clear view of:
 - The volume and status of tenements (Live, Pending, Surveyed, Unsurveyed)
@@ -21,7 +21,7 @@ Explore the live dashboard here:
 
 > *Note: Best viewed on desktop.*
 
-## 📁 Datasets
+## Datasets
 
 1. **Mining Tenements (DMIRS-003)**  
    Source: [data.wa.gov.au](https://catalogue.data.wa.gov.au/dataset/mining-tenements-dmirs-003)
@@ -29,14 +29,14 @@ Explore the live dashboard here:
 2. **Regional Development Commission Boundaries (DPIRD-020)**  
    Source: [data.wa.gov.au](https://catalogue.data.wa.gov.au/dataset/regional-development-commissions-regions-dpird-020)
 
-## 🧪 Files in this Repo
+## Files in this Repo
 - `MineTenementWA.ipynb`: Jupyter Notebook for cleaning, processing, and joining geospatial datasets.
 - `tenements_wa.csv`: Cleaned tenement data including centroid coordinates.
 - `tenement_regions_clean.csv`: Mapping of tenements to WA regions using regional boundary geometry.
 - `tenement_holders.csv`: Extracted holder details, separated from the main tenement dataset for normalisation.
 - `README.md`: You're reading it!
 
-## 📍 Insights
+## Insights
 
 - Over **29,882** tenements across WA, with nearly **80% currently live**.
 - **Exploration Licenses** are the most common tenement type.
