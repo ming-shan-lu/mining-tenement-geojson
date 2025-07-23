@@ -17,7 +17,7 @@ Built using:
 ## 📈 Dashboard
 
 Explore the live dashboard here:  
-👉 [WA Mining Tenement Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzE5OTRkODAtMTkyYy00YjA0LWEzODgtYWU4MDQyYjE3NzZmIiwidCI6IjJmOTEzM2NiLWJhNGEtNDFmYy1hZGQ5LTZjMGEzZTYwY2Q4ZSJ9)
+👉 [WA Mining Tenement Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzE5OTRkODAtMTkyYy00YjA0LWEzODgtYWU4MDQyYjE3NzZmIiwidCI6IjJmOTEzM2NiLWJhNGEtNDFmYy1hZGQ5LTZjMGEzZTYwY2Q4ZSJ9&pageName=3926961e51ab737c799c))
 <img width="1128" height="632" alt="Screenshot 2025-07-23 at 1 05 17 pm" src="https://github.com/user-attachments/assets/4d2c251c-9cb6-43cd-991a-6572fb2e4fe2" />
 <img width="1126" height="635" alt="Screenshot 2025-07-23 at 1 05 33 pm" src="https://github.com/user-attachments/assets/db864cd1-40ee-4f0e-af3e-9afc7e2e97af" />
 
